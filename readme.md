@@ -1,6 +1,6 @@
-# Batch HTTP Downloader
+# Super Simple Batch Downloader
 
-Batch HTTP Downloader is a **Node.js application** that allows users to **bulk download files** from a specified URL location. The app handles:
+Super Simple Batch Downloader is a **Node.js application** that allows users to **bulk download files** from a specified URL location. The app handles:
 - **Encoding and decoding filenames** to support special characters and spaces.
 - **Sequential downloads** with a **progress indicator and estimated time remaining**.
 - **Fallback to PowerShell** if Node.js encounters errors while downloading files.
