@@ -1,0 +1,23 @@
+{
+  "name": "super-simple-batch-downloader",
+  "version": "1.0.0",
+  "description": "A quick tool that downloads files from a list of urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "download",
+    "manager",
+    "downloader",
+    "http",
+    "batch"
+  ],
+  "author": "Thomas Doukinitsas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^4.1.2"
+  }
+}
